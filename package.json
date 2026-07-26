@@ -1,6 +1,6 @@
 {
   "name": "@hukt-labs/resolver",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "One-line integration for Token-2022 transfer-hook tokens: resolve a mint's extra accounts and build transfer instructions with the hook accounts injected.",
   "type": "module",
   "main": "./dist/index.js",
